@@ -1,0 +1,12 @@
+<!--<p style="text-align: center;">Empleado</p>-->
+<p style="text-align: center;">Nombre: {{nombre}}</p>
+<p style="text-align: center;">Apellido: {{apellido}}</p>
+<p style="text-align: center;">Edad: {{edad<18? "Menor de edad" :"Mayor de edad"}}</p>
+        <p style="text-align: center;">Empresa: {{empresaBoton.value}}</p>
+
+        Nombre de la Empresa: <input type="text" #empresaBoton
+        (keyup)="0" />
+        <br />
+        <br />
+        <!--Para hacerlo con botón:
+        <input type="button" value="Guardar" (click)="guardarEmpresa(empresaBoton.value)">-->
