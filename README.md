@@ -1,59 +1,84 @@
-# IntroAngular
+# Proyecto de práctica con Angular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
+## Descripción
 
-## Development server
+Este proyecto fue generado utilizando Angular CLI versión 20.1.5 y tiene como objetivo afianzar conocimientos clave de Angular mediante prácticas reales de desarrollo web.
 
-To start a local development server, run:
+Se abordan temas como:
 
-```bash
-ng serve
-```
+- Creación y manejo de componentes
+- Uso de directivas y pipes
+- Servicios y consumo de APIs
+- Rutas y navegación
+- Formularios reactivos y plantillas
+- Testing con Karma y pruebas end-to-end
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Curso seguido
 
-## Code scaffolding
+Curso completo de Angular - [Píldoras Informáticas](https://angular.io/docs](https://www.pildorasinformaticas.es/course/curso-angular/))
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Tecnologías utilizadas
 
-```bash
-ng generate component component-name
-```
+- Angular 20.1.5
+- TypeScript
+- HTML / CSS
+- Node.js (para ejecutar Angular CLI)
+- Visual Studio Code
+- Git y GitHub
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Funcionalidades principales
 
-```bash
-ng generate --help
-```
+### Servidor de desarrollo
+- Ejecutar `ng serve` para levantar un servidor local
+- La aplicación recargará automáticamente al modificar los archivos de origen
+- Acceder a la app en [http://localhost:4200/](http://localhost:4200/)
 
-## Building
+### Generación de código
+- Angular CLI permite crear componentes, directivas, pipes y servicios
+- Para generar un nuevo componente:  
+  ```bash
+  ng generate component nombre-del-componente
 
-To build the project run:
+---
 
-```bash
+bash
+Copiar código
 ng build
-```
+Los artefactos se almacenan en la carpeta dist/
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Cómo ejecutar el proyecto
 
-## Running unit tests
+Clonar el repositorio:
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+bash
+Copiar código
+git clone https://github.com/OlgaMACN/Aprendiendo_Angular.git
 
-```bash
-ng test
-```
+Instalar dependencias:
 
-## Running end-to-end tests
+bash
+Copiar código
+npm install
+Ejecutar el servidor de desarrollo:
 
-For end-to-end (e2e) testing, run:
+bash
+Copiar código
+ng serve
+Abrir la aplicación en el navegador: http://localhost:4200/
 
-```bash
-ng e2e
-```
+---
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Objetivos del proyecto
+Reforzar los fundamentos de Angular
 
-## Additional Resources
+Practicar la creación de componentes y servicios
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Entender la navegación y manejo de rutas
+
+Aprender buenas prácticas de testing y construcción de aplicaciones
+
+---
+
+Créditos
+Proyecto basado en el curso online de Píldoras Informáticas:
+https://angular.io/docs](https://www.pildorasinformaticas.es/course/curso-angular/
