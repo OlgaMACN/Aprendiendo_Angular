@@ -35,7 +35,8 @@ Curso completo de Angular - [Píldoras Informáticas]((https://www.pildorasinfor
 
 ### Generación de código
 - Angular CLI permite crear componentes, directivas, pipes y servicios
-- Para generar un nuevo componente:  
+- Para generar un nuevo componente:
+  
   ```bash
   ng generate component nombre-del-componente
 
