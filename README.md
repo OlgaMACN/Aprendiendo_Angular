@@ -11,8 +11,8 @@ Se abordan temas como:
 - Servicios y consumo de APIs  
 - Rutas y navegación  
 - Formularios reactivos y plantillas  
-- Testing con Karma y pruebas end-to-end  
-
+- Testing con Karma
+  
 ## Curso seguido
 
 Curso completo de Angular - [Píldoras Informáticas](https://www.pildorasinformaticas.es/course/curso-angular/)
