@@ -15,7 +15,7 @@ Se abordan temas como:
 
 ## Curso seguido
 
-Curso completo de Angular - [Píldoras Informáticas](https://angular.io/docs](https://www.pildorasinformaticas.es/course/curso-angular/))
+Curso completo de Angular - [Píldoras Informáticas]((https://www.pildorasinformaticas.es/course/curso-angular/))
 
 ## Tecnologías utilizadas
 
